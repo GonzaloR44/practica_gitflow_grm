@@ -1,0 +1,1 @@
+Hemos tenido problemas al ver las ramas con "git branch", ya que nos hemos dado cuenta de que tenemos que realizar "git checkout rama" para cada rama que queramos que nos aparezca.
